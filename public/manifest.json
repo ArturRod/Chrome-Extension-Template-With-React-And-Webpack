@@ -1,0 +1,11 @@
+{
+    "name":"Download From Youtube",
+    "description":"Download music from open pages in youtube.",
+    "version":"1.0",
+    "manifest_version": 3,
+    "author": "",
+    "licence:": "MIT",
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
